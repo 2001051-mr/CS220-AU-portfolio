@@ -49,7 +49,11 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
-- 
+- 2021/10/14 - Learnt about digital identity and the VR maps used to establish it
+- 2021/10/21 - Created a GitHub Account
+- 2021/10/28 - created a basic website
+- 2021/11/5 - Updated the Log and ToDo list
+- 2021/11/5 - Went over digital identities again to establish where i stand
 
 <br>
 
