@@ -49,31 +49,25 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
-- 2021-10-19 minor grammar and logic changes. 
-- 2021-10-16 testing fork from kris-dummy account. Testing notifications in forked repos. 
-- 2021-10-11 one peer assessment instead of two needed.
-- 2021-10-07 to have an originality report from FASER, students need to submit the DI reflection as PDF. They can still add this reflection to their GitHub repositories as an additional website if they would like to. The submit.md file is changed to final-check.md. All files changed to reflect these changes. 
-- 2021-10-06 README.md refined with clearer overview. Change from submitting in PDF to submitting in .md (submit.md). 
-- 2021-10-05 submit.md refined (raw rubric sheet in excel file and converted with https://www.convertcsv.com/csv-to-markdown.htm. All text checked with free Grammarly and ProWritingAid
-- 2021-10-03 di-reflection simplified. submit.md simplified. index.md simplified
-- 2021-10-01 assessment.md renamed to submit.md. reflection.md renamed to di-reflection.md. Links added to CS220 repo and files were fine-tuned
-- 2021-09-24 index.md, reflection.md and assessment.md added. readme.md refined
-- 2021-09-21 repo created. readme.md added and next steps in the todo heading defined
+- 
 
 <br>
 
 ## TODO
-### week 4 - websites
-#### index.md
-- link good minimal examples
-- beautify index.md
-    - add social media icons for hyperlinks
-## by week 7
-- make screencast demonstrating the submission of this repository
-- go through this repository with students and clarify if needed
-
-<br>
-
-## References
-- White, D., 2013, Visitors and Residents, [http://daveowhite.com/vandr/vr-mapping/](http://daveowhite.com/vandr/vr-mapping/)
-- Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf).
+- Go over the digitial identities ideas and think about my digital identity
+- Create a VR map of my digital identity before taking this module
+- Create a VR map of my digital identity now
+- Using the VR maps work out where i stand for my digital identity 
+- Look at the generations and see whether my parents generation effected my digital identity
+- Using the information gathered from the VR maps and the digital identity information, start to draft the essay
+- Finish Draft of essay
+- Start to think of an idea for what my website could be 
+- Come up with a list of potential ideas on what my website could be and whether it is a portfolio website or a project website
+- Become familiar with the markdown language 
+- Once familiar decide from the ideas on what the website will be
+- Start editing the website 
+- decide whether or not to include audio-visual content on the website
+- create a rough idea of what the website will be 
+- Finish the website by flushing out all the mistakes on it and make it presentable
+- Write the final draft of the essay
+- Submit everything and hope I passed!
