@@ -1,9 +1,12 @@
-##  Michael Roffe
-**I am Second Year History Student at the University of Essex**
+##  Michael Roffe Portfolio ##
+**An introduction to the world of Norse Mythology**
+The first thought that you might get when being asked what you know about Norse Mythology are the Marvel movies and their intepretation of Asgard and Thor and Loki, and although there interpretations of the Gods were brilliantly brought to life by Chris Hemsworth and Tom Hiddleston, there is so much more to discover about the stories of the nine realms and so much more to learn about the gods themselves. What this introduction will do is go over some of the stories that made me fall in love with the Norse mythology and hopefully inspire you to look deeper into Norse mythology and discover the many and great stories told. 
 
-Hello! My name is Michael Roffe. 
+A good place to start are the main gods you will discover when exploring the nine realms. In Norse Mythology there are two main groupings of gods, the Aesir and the Vanir and the majority of stories you hear about are about the Aesir gods, such as Odin, Thor, and Loki
 
-I am a currently in my second year of my History degree at the Colchester Campus of the University Of Essex. I'm currently studying topics covering the History of Pandemics, Sex, Class and war at the movies, approaches to History which covers the theorectical side of History and also navigating the digital world which is where i learnt to create this website!
+
+
+
 
  
 
