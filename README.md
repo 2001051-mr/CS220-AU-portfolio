@@ -60,6 +60,7 @@ How to use this GitHub repository as a template for your submission, including h
 - 2021/12/1 - Updated Log
 - 2021/12/1 - Continued working on the website 
 - 2021/12/2 - Added picture to website
+- 2021/12/2 - Started on my portfolio overview
 
 <br>
 
