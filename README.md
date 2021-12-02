@@ -9,7 +9,7 @@ It demonstrates the use of [Markdown language](https://guides.github.com/feature
 - self-and peer-assessment
 - final checklist 
 
-The URL of the website, using the `index.md` file can be found in the sidebar of this repository, under 'About'. It is a very simple home page that you can amend with your own information.
+The URL of the website, using the `index.md` file can be found in the sidebar of this repository, under 'About'. It is a very simple home page that you can amend with your own information. I used GitHub Pages to create my website due to it being easy to create and understand the markdown language and also made it easier long term as well as i have a lot of essays for my history degree to write, and by using GitHub pages, it made managing my time easier and meant i could focus on other modules as well as this one and making sure i can have enough time to put the effort into making my website presentable. 
 
 <br>
 
@@ -80,4 +80,5 @@ How to use this GitHub repository as a template for your submission, including h
 - ~~create a rough idea of what the website will be~~ 
 - Finish the website by flushing out all the mistakes on it and make it presentable
 - Write the final draft of the essay
+- Create an overview of the portfolio
 - Submit everything and hope I passed!
