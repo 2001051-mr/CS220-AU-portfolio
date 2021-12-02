@@ -59,6 +59,7 @@ How to use this GitHub repository as a template for your submission, including h
 - 2021/11/24 - Started work on website and a rough introduction on the website
 - 2021/12/1 - Updated Log
 - 2021/12/1 - Continued working on the website 
+- 2021/12/2 - Added picture to website
 
 <br>
 
@@ -70,13 +71,13 @@ How to use this GitHub repository as a template for your submission, including h
 - Look at the generations and see whether my parents generation effected my digital identity
 - Using the information gathered from the VR maps and the digital identity information, start to draft the essay
 - Finish Draft of essay
-- Start to think of an idea for what my website could be 
-- Come up with a list of potential ideas on what my website could be and whether it is a portfolio website or a project website
+- ~~Start to think of an idea for what my website could be ~~
+- ~~Come up with a list of potential ideas on what my website could be and whether it is a portfolio website or a project website~~
 - Become familiar with the markdown language 
-- Once familiar decide from the ideas on what the website will be
-- Start editing the website 
+- ~~Once familiar decide from the ideas on what the website will be~~
+- ~~Start editing the website~~ 
 - decide whether or not to include audio-visual content on the website
-- create a rough idea of what the website will be 
+- ~~create a rough idea of what the website will be~~ 
 - Finish the website by flushing out all the mistakes on it and make it presentable
 - Write the final draft of the essay
 - Submit everything and hope I passed!
