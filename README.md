@@ -61,6 +61,7 @@ How to use this GitHub repository as a template for your submission, including h
 - 2021/12/1 - Continued working on the website 
 - 2021/12/2 - Added picture to website
 - 2021/12/2 - Started on my portfolio overview
+- 2021/12/9 - finished the Fenrir stroy on my website
 
 <br>
 
