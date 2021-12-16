@@ -61,7 +61,8 @@ How to use this GitHub repository as a template for your submission, including h
 - 2021/12/1 - Continued working on the website 
 - 2021/12/2 - Added picture to website
 - 2021/12/2 - Started on my portfolio overview
-- 2021/12/9 - finished the Fenrir stroy on my website
+- 2021/12/9 - finished the Fenrir story on my website
+- 2021/12/16 - crossed out some items on my to do list
 
 <br>
 
@@ -75,10 +76,10 @@ How to use this GitHub repository as a template for your submission, including h
 - Finish Draft of essay
 - ~~Start to think of an idea for what my website could be~~
 - ~~Come up with a list of potential ideas on what my website could be and whether it is a portfolio website or a project website~~
-- Become familiar with the markdown language 
+- ~~Become familiar with the markdown language~~ 
 - ~~Once familiar decide from the ideas on what the website will be~~
 - ~~Start editing the website~~ 
-- decide whether or not to include audio-visual content on the website
+- ~~decide whether or not to include audio-visual content on the website~~
 - ~~create a rough idea of what the website will be~~ 
 - Finish the website by flushing out all the mistakes on it and make it presentable
 - Write the final draft of the essay
