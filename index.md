@@ -1,7 +1,7 @@
 ##  Michael Roffe Portfolio ##
 **An introduction to the world of Norse Mythology**
 
-The first thought that you might get when being asked what you know about Norse Mythology are the Marvel movies and their intepretation of Asgard and Thor and Loki, and although there interpretations of the Gods were brilliantly brought to life by Chris Hemsworth and Tom Hiddleston, there is so much more to discover about the stories of the nine realms and so much more to learn about the gods themselves. What this introduction will do is go over some of the stories that made me fall in love with the Norse mythology and hopefully inspire you to look deeper into Norse mythology and discover the many and great stories told. All stories that are mentioned in this introduction and any information as well is from the book 'Norse Mythology' by Albert Gaiman.
+The first thought that you might get when being asked what you know about Norse Mythology are the Marvel movies and their intepretation of Asgard and Thor and Loki, and although there interpretations of the Gods were brilliantly brought to life by Chris Hemsworth and Tom Hiddleston, there is so much more to discover about the stories of the nine realms and so much more to learn about the gods themselves. What this introduction will do is go over some of the stories that made me fall in love with the Norse mythology and hopefully inspire you to look deeper into Norse mythology and discover the many and great stories told. All stories that are mentioned in this introduction and any information as well is from the book 'Norse Mythology' by Neil Gaiman.
 
 *The Gods*
 
@@ -17,7 +17,7 @@ The Story starts with Loki of course, playing a trick on the gods, and lesving t
 
 *Norse Mythology in modern Times*
 
-There are many different mentions of Norse Mythology in modern times
+There are many different mentions of Norse Mythology in modern times such as the Marvel movies with the reference to Thor and Odin and Asgard and the stories they tell in their own way with some accuracies from Norse Mythology Myths but focusing obviously on the Marvel comics made my Jack Kirby and Stan Lee. There are also mentions of Norse Mythology in gaming as well with the God of War franchise, previously in the franchise it had focused on Greek mythology, but with its newest title, it had gone into the nine realms of Norse mythology with it being more based on Norse Mythology myths and trying to make it as accurate as possible as well and with a new instalment of the God of War fanchise, God Of War: Ragnorok where going off its name, it will have the idea of Ragnorok included in its game. Ragnorok in Norse Mythology is the end of the world
 
 
 
