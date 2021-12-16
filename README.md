@@ -73,7 +73,7 @@ How to use this GitHub repository as a template for your submission, including h
 - Look at the generations and see whether my parents generation effected my digital identity
 - Using the information gathered from the VR maps and the digital identity information, start to draft the essay
 - Finish Draft of essay
-- ~~Start to think of an idea for what my website could be ~~
+- ~~Start to think of an idea for what my website could be~~
 - ~~Come up with a list of potential ideas on what my website could be and whether it is a portfolio website or a project website~~
 - Become familiar with the markdown language 
 - ~~Once familiar decide from the ideas on what the website will be~~
