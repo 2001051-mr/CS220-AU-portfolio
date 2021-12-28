@@ -51,6 +51,7 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
+- 2021/12/28 - updated log
 - 2021/12/28 - Finished adding content onto the website e.g. finished all writing for website
 - 2021/12/27 - Updated log, changed the dates to newest at the top 
 - 2021/12/23 - Added new pictures from the website I found onto my website and put in a link to the website as well and the author
