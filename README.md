@@ -51,24 +51,45 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
-- 2021/10/14 - Learnt about digital identity and the VR maps used to establish it
-- 2021/10/21 - Created a GitHub Account
-- 2021/10/28 - created a basic website
-- 2021/11/5 - Updated the Log and ToDo list
-- 2021/11/5 - Went over digital identities again to establish where i stand
-- 2021/11/15 - created a list of potential website ideas
-- 2021/11/17 - decided to create a website/profile on an introduction on Norse Mythology
-- 2021/11/24 - Started work on website and a rough introduction on the website
-- 2021/12/1 - Updated Log
-- 2021/12/1 - Continued working on the website 
-- 2021/12/2 - Added picture to website
-- 2021/12/2 - Started on my portfolio overview
-- 2021/12/9 - finished the Fenrir story on my website
-- 2021/12/15 - added Picture of Odin to website
-- 2021/12/16 - crossed out some items on my to do list
-- 2021/12/16 - updated log 
-- 2021/12/16 - added more into the overview
+- 2021/12/28 - Finished adding content onto the website e.g. finished all writing for website
+- 2021/12/27 - Updated log, changed the dates to newest at the top 
+- 2021/12/23 - Added new pictures from the website I found onto my website and put in a link to the website as well and the author
+- 2021/12/22 - Found a website which provides free pictures to use for my website
 - 2021/12/16 - edited out grammatical errors in overview
+- 2021/12/16 - added more into the overview
+- 2021/12/16 - updated log 
+- 2021/12/16 - crossed out some items on my to do list
+- 2021/12/15 - added Picture of Odin to website
+- 2021/12/9 - finished the Fenrir story on my website
+- 2021/12/2 - Started on my portfolio overview
+- 2021/12/2 - Added picture to website
+- 2021/12/1 - Continued working on the website 
+- 2021/12/1 - Updated Log
+- 2021/11/24 - Started work on website and a rough introduction on the website
+- 2021/11/17 - decided to create a website/profile on an introduction on Norse Mythology
+- 2021/11/15 - created a list of potential website ideas
+- 2021/11/5 - Went over digital identities again to establish where i stand
+- 2021/11/5 - Updated the Log and ToDo list
+- 2021/10/28 - created a basic website
+- 2021/10/21 - Created a GitHub Account
+- 2021/10/14 - Learnt about digital identity and the VR maps used to establish it
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br>
 
