@@ -19,7 +19,24 @@ The Story starts with Loki of course, playing a trick on the gods, and lesving t
 
 *Norse Mythology in modern Times*
 
-There are many different mentions of Norse Mythology in modern times such as the Marvel movies with the reference to Thor and Odin and Asgard and the stories they tell in their own way with some accuracies from Norse Mythology Myths but focusing obviously on the Marvel comics made my Jack Kirby and Stan Lee. There are also mentions of Norse Mythology in gaming as well with the God of War franchise, previously in the franchise it had focused on Greek mythology, but with its newest title, it had gone into the nine realms of Norse mythology with it being more based on Norse Mythology myths and trying to make it as accurate as possible as well and with a new instalment of the God of War fanchise, God Of War: Ragnorok where going off its name, it will have the idea of Ragnorok included in its game. Ragnorok in Norse Mythology is the end of the world in their belief where the two wolves who have been chasing the sun and the moon finally catch them, and a horribly, freezing winter covers the realms, and all Aesir Gods fall in a great battle in Ragnorok. TV shows as well such as 'Vikings' which have references towards Norse mythology as well and even tattoos as well have referencing and meaning gotten from Norse Mythology such as having the Troll cross being tattooed in the body which means to keep away bad omens
+There are many different mentions of Norse Mythology in modern times such as the Marvel movies with the reference to Thor and Odin and Asgard and the stories they tell in their own way with some accuracies from Norse Mythology Myths but focusing obviously on the Marvel comics made my Jack Kirby and Stan Lee. There are also mentions of Norse Mythology in gaming as well with the God of War franchise, previously in the franchise it had focused on Greek mythology, but with its newest title, it had gone into the nine realms of Norse mythology with it being more based on Norse Mythology myths and trying to make it as accurate as possible as well and with a new instalment of the God of War fanchise, God Of War: Ragnorok where going off its name, it will have the idea of Ragnorok included in its game. Ragnorok in Norse Mythology is the end of the world in their belief where the two wolves who have been chasing the sun and the moon finally catch them, and a horribly, freezing winter covers the realms, and all Aesir Gods fall in a great battle in Ragnorok. TV shows as well such as 'Vikings' which have references towards Norse mythology as well and even tattoos have referencing and meaning gotten from Norse Mythology, such as having the Troll cross being tattooed in the body which means to keep away bad omens, or getting the norse compass tattoo which means whatever journey you are on, you will never get lost. Norse mythology is still relevent in modern time and throughout the world there are references whether it is in the gaming world with God of War, or Assasins Creed, or whether it is in the movie or TV industry with Marvel movies and Vikings, or whether people get tattoos referencing Norse mythology, Norse mythology is still present in todays time.
+
+*Final statement*
+
+Hopefully going through this website has got you interested in the stories that are told within Norse mythology, as this is just the tip of the iceberg, there are tonnes of stories and characters to be found when exploring the stories told across the nine realms within Norse mythology. All stories told relating to norse Mythology like the Fenrir story and all the information of the gods were from the book 'Norse Mythology' by Neil Gaiman and I will leave a link to where you can buy this book and if you are interested in Norse mythology I highly recommend you read this book. I hope you enjoyed reading about Norse mythology! - Michael Roffe
+
+*Link to book and my email if you have any questions*
+
+Neil Gaiman 'Norse mythology' - [Norse mythology book](https://www.amazon.co.uk/Norse-Mythology-Neil-Gaiman/dp/1408886812/ref=asc_df_1408886812?tag=bingshoppinga-21&linkCode=df0&hvadid=80333125119145&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4583932700372203&psc=1)
+
+My email - mr20639@essex.ac.uk
+
+
+
+
+
+
+
 
 
 
