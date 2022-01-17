@@ -51,7 +51,8 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
--2022/1/17 - updated my log and deleted all completed tasks of my ToDo list
+
+- 2022/1/17 - updated my log and deleted all completed tasks of my ToDo list
 - 2022/1/17 - completed my peer/self assessment 
 - 2022/1/13 - Did a draft of my essay for the portfolio
 - 2022/1/10 - created more space between the headings on my website after Krisztian suggested it would aid the aesthetics.
