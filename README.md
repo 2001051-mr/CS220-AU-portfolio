@@ -51,6 +51,9 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
+-2022/1/17 - updated my log and deleted all completed tasks of my ToDo list
+- 2022/1/17 - completed my peer/self assessment 
+- 2022/1/13 - Did a draft of my essay for the portfolio
 - 2022/1/10 - created more space between the headings on my website after Krisztian suggested it would aid the aesthetics.
 - 2022/1/3 - edited my V&R maps for preperation of writing the essay
 - 2021/12/28 - updated log
@@ -97,8 +100,7 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## TODO 
-- Using the information gathered from the VR maps and the digital identity information, start to draft the essay
-- Finish Draft of essay
+
 - Finish the website by flushing out all the mistakes on it and make it presentable
 - Write the final draft of the essay
 - Submit everything and hope I passed!
