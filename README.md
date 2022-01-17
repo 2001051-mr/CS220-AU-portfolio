@@ -51,6 +51,8 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
+- 2022/1/10 - created more space between the headings on my website after Krisztian suggested it would aid the aesthetics.
+- 2022/1/3 - edited my V&R maps for preperation of writing the essay
 - 2021/12/28 - updated log
 - 2021/12/28 - Finished adding content onto the website e.g. finished all writing for website
 - 2021/12/27 - Updated log, changed the dates to newest at the top 
@@ -94,22 +96,9 @@ How to use this GitHub repository as a template for your submission, including h
 
 <br>
 
-## TODO
-- ~~Go over the digitial identities ideas and think about my digital identity~~
-- Create a VR map of my digital identity before taking this module
-- Create a VR map of my digital identity now
-- Using the VR maps work out where i stand for my digital identity 
-- ~~Look at the generations and see whether my parents generation effected my digital identity~~
+## TODO 
 - Using the information gathered from the VR maps and the digital identity information, start to draft the essay
 - Finish Draft of essay
-- ~~Start to think of an idea for what my website could be~~
-- ~~Come up with a list of potential ideas on what my website could be and whether it is a portfolio website or a project website~~
-- ~~Become familiar with the markdown language~~ 
-- ~~Once familiar decide from the ideas on what the website will be~~
-- ~~Start editing the website~~ 
-- ~~decide whether or not to include audio-visual content on the website~~
-- ~~create a rough idea of what the website will be~~ 
 - Finish the website by flushing out all the mistakes on it and make it presentable
 - Write the final draft of the essay
-- Create an overview of the portfolio
 - Submit everything and hope I passed!
