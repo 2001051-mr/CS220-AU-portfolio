@@ -51,7 +51,9 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
-
+- 2022/1/18 - Submitted the files onto fazer!
+- 2022/1/18 - did final update of log and completed the ToDo list
+- 2022/1/18 - Completed the checklist
 - 2022/1/17 - updated my log and deleted all completed tasks of my ToDo list
 - 2022/1/17 - completed my peer/self assessment 
 - 2022/1/13 - Did a draft of my essay for the portfolio
@@ -100,8 +102,4 @@ How to use this GitHub repository as a template for your submission, including h
 
 <br>
 
-## TODO 
 
-- Finish the website by flushing out all the mistakes on it and make it presentable
-- Write the final draft of the essay
-- Submit everything and hope I passed!
